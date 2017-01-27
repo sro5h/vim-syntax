@@ -1,4 +1,4 @@
-syntax.vim
+vim-syntax
 ==========
 
 My additional syntax files
