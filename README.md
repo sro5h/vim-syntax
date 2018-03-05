@@ -3,4 +3,4 @@ vim-syntax
 
 My additional syntax files
 
-(c) 2016 Paul Meffle, MIT License
+&copy; Paul Meffle, MIT License
